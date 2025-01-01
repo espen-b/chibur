@@ -27,21 +27,27 @@ Built by a community of technologists, rabbis, data scientists, and passionate l
 We welcome new contributors, whether to fix bugs, add features, or propose entirely new directions.
 Quick Start
 
-Clone this repository:
-git clone https://github.com/username/chibur.git
-cd chibur
-Install dependencies:
-pip install -r requirements.txt
-Explore the example plugins in plugins/.
-Run the app in your environment—this might be:
-python main.py
-Or a Docker-based environment if you prefer containers.
-Dive In: Check out the Plugin Development Guide to learn how to add your own plugins.
-Plugin-Driven Architecture
+-Clone this repository:
+
+-git clone https://github.com/username/chibur.git
+
+-cd chibur
+
+-Install dependencies:
+
+-pip install -r requirements.txt
+
+-Explore the example plugins in plugins/.
+
+-Run the app in your environment—this might be: python main.py or a Docker-based environment if you prefer containers.
+
+- Dive In: Check out the Plugin Development Guide to learn how to add your own plugins.
+
+# Plugin-Driven Architecture
 
 Chibur’s architecture makes it easy to drop new files into plugins/input/active, plugins/analysis/active, or plugins/report/active, and they’ll automatically be discovered and run. No system-wide modifications required.
 
-# We encourage you to:
+We encourage you to:
 
 Create a new plugin for specialized text ingestion (like an API or local database).
 Experiment with advanced analysis (machine learning, AI-based commentary, named-entity recognition).
@@ -50,10 +56,12 @@ Contributing
 
 We’d love for you to join our mission of merging data science with timeless texts. Here’s how you can get involved:
 
-Fork this repository and submit a pull request with your new plugin, bug fix, or enhancement.
-Open Issues if you have questions or suggestions.
-Discuss bigger features or architectural changes in Discussions or Slack.
-If you’re unsure where to start, check out the open issues labeled “help wanted” or ask us how you can help—chances are there’s a piece of Chibur that needs your creativity!
+-Fork this repository and submit a pull request with your new plugin, bug fix, or enhancement.
+
+-Open Issues if you have questions or suggestions.
+
+-Discuss bigger features or architectural changes in Discussions or Slack.
+If you’re unsure where to start, ask us how you can help—chances are there’s a piece of Chibur that needs your creativity!
 
 # License
 
