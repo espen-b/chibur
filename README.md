@@ -1,15 +1,7 @@
 # Chibur
 Chibur is an open-source, modular platform that unites modern data science with centuries of Jewish textual wisdom. Designed to seamlessly plug into a variety of text sources and analytical workflows, Chibur helps you explore, analyze, and uncover new insights in Hebrew texts—from Torah and Talmud to Midrashic literature and beyond.
 
-Table of Contents
-
-What is Chibur?
-Key Features
-Quick Start
-Plugin-Driven Architecture
-Contributing
-License
-What is Chibur?
+# What is Chibur?
 
 Chibur (Hebrew for “connection”) aims to bridge the gap between cutting-edge computational approaches—like NLP, machine learning, and data visualization—and the rich tapestry of Jewish texts. By fostering a plug-and-play ecosystem of “plugins,” developers can add new functionality without rewriting the core engine or refactoring existing code.
 
@@ -67,4 +59,5 @@ If you’re unsure where to start, check out the open issues labeled “help wan
 
 This project is licensed under GPL—see the LICENSE file for details.
 
+# Thank You
 Thank you for your interest in Chibur! We hope this platform inspires new ways to engage with and learn from our collective textual heritage. If you have ideas or want to contribute, please don’t hesitate to get involved—together, let’s build a better future for Jewish text exploration and discovery.
