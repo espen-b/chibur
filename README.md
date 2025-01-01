@@ -28,13 +28,20 @@ We welcome new contributors, whether to fix bugs, add features, or propose entir
 
 Quick Start
 
--Clone this repository:
+-Clone this repository
+
 -git clone https://github.com/username/chibur.git
+
 -cd chibur
+
 -Install dependencies:
+
 -pip install -r requirements.txt
+
 -Explore the example plugins in plugins/.
+
 -Run the app in your environment—this might be: python main.py or a Docker-based environment if you prefer containers.
+
 - Dive In: Check out the Plugin Development Guide to learn how to add your own plugins.
 
 # Plugin-Driven Architecture
